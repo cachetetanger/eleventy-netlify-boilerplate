@@ -11,8 +11,8 @@
 			</em>
 			{% include "components/nav.njk" %}
 		</header>
-		{% if ( metadata.coverImage) %}
-			<img class="post-hero" src="{{ metadata.coverImage }}" alt="Hero image for {{ title }}" />
+		{% if ( coverImage) %}
+			<img class="post-hero" src="{{ coverImage }}" alt="Hero image for {{ title }}" />
 		{% endif %}
 		<main>
 			{{ layoutContent | safe }}
