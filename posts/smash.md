@@ -3,7 +3,8 @@ title: "Smash"
 date: "2019-02-11"
 categories: 
   - "life"
-coverImage: "../static/posts-img/markus-spiske-1423436-unsplash-min.jpg"
+coverImage: "markus-spiske-1423436-unsplash-min.jpg"
+author: "Tom St John"
 ---
 
 In my mind's eye my front wheel disappeared into a large pothole. I'm on my knees looking down at the road, blood streaming onto my trousers and the road making big dark red blotches. My head is hurting, more than hurting, someone is telling me I should move off the road. I crawl to a traffic light and grab it. How can I make this pain stop, I need to call Caitlyn, what is happening to me. My phone is in my pocket, stand up, pull yourself up then using the traffic light, I'm in a low crouch. This must have been what it was like in the trenches when a shell exploded near you. I think I am crying out in anguish and pain, I need to call Caitlyn, I can't get my hand to reach inside my pocket. She won't be able to go to counselling tonight. A man and paramedic are talking near me, they are calm. Agony, it needs to stop, what if it doesn't stop? Call Caitlyn. Call Caitlyn. Standing up now, trying to reach into my pocket, my hand won't go in my pocket. Is there a hole in my head? Agony. Distress. Torment. Laceration. Cruciation. The man is saying he was a few bike lengths back and went to clear some condensation from his glasses and next thing he knew I was on the floor. Paramedic telling me I've taken a knock to the head, to sit down. Halting steps towards building to slump against. No sit in the ambulance it is warm. An ambulance is parked beside me, the front door is opened and painfully I climb into the front seat. The amygdala is calling the shots, no more agony, just pain and a rising ache in my left wrist.

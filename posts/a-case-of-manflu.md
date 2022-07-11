@@ -16,6 +16,7 @@ tags:
   - "romo"
   - "tottenham"
 coverImage: "photo.jpg"
+author: "Tom St John"
 ---
 
 There have been incredible performances in sport when people have against all the odds been able to rely on their inner strength to pull them through. [The 1979 Cotton Bowl](http://125.nd.edu/moments/the-chicken-soup-game-1979-cotton-bowl-classic/) was played in freezing conditions and Joe Montana had the flu. Notre Dame went into half-time 20-12 down and Montana stayed in the changing room wrapped in blankets and the team doctors fed him chicken soup. He returned to the game in the fourth quarter with seven and a half minutes remaining with the score now 34-12 to Houston. Despite the flu he rallied them to the most unlikely comeback, throwing a touchdown to tie the scores as time ran out. Joe Unis kicked the extra point on the second time of asking for a famous win.
