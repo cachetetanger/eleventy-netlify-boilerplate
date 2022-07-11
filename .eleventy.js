@@ -36,8 +36,12 @@ module.exports = function(eleventyConfig) {
       return coll;
     }, {});
   });
-
-  // Date formatting (human readable)
+  
+  // Copy the `img` and `css` folders to the output
+   eleventyConfig.addPassthroughCopy("img");
+   eleventyConfig.addPassthroughCopy("css");
+ 
+   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
@@ -80,6 +84,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
+
+  
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
